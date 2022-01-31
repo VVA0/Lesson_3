@@ -1,0 +1,31 @@
+p {
+    color:blue
+}
+
+span {
+    color:chartreuse
+}
+
+.future-bbc-columnist {
+    color:crimson
+}
+
+.text {
+    color:deeppink
+}
+
+#subtitle {
+    color:mediumspringgreen
+}
+
+.line {
+    color:yellow
+}
+
+.next__text {
+    color:saddlebrown
+}
+
+.next__text~ li {
+    color:violet
+}
